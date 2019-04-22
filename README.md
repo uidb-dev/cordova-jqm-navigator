@@ -1,5 +1,7 @@
-<h1>This will help you to manage your pages-history in the app.
-  With this navigator the user will experience perfect return pages like you want.</h1>
+<h1>navigator-cordova-jqm<h1>
+
+<h3>This will help you to manage your pages-history in the app.
+  With this navigator the user will experience perfect return pages like you want.</h3>
 
 <h2>Running</h2>
 <pre>
@@ -32,3 +34,4 @@
  });
 </code>
 </pre>
+

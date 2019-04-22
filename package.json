@@ -1,0 +1,49 @@
+{
+  "name": "navigator-cordova-jqm",
+  "version": "1.0.0",
+  "description": "Navigator for Cordova with jQuery Mobile. This will help you manage your pages history in the app.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchoban/cordova-jqm-navigator.git"
+  },
+  "keywords": [
+    "manage",
+    "pages",
+    "managePages",
+    "historyPages",
+    "cordova",
+    "with",
+    "jqm",
+    "jQuery",
+    "mobile",
+    "navigator",
+    "pages",
+    "cordova",
+    "with",
+    "jqm",
+    "jQuery",
+    "mobile",
+    "history",
+    "pages",
+    "-",
+    "jqm",
+    "jQuery",
+    "momile",
+    "with",
+    "cordova",
+    "back",
+    "button",
+    "android",
+    "cordova",
+    "jqm",
+    "jQuery",
+    "mobile"
+  ],
+  "author": "Or Choban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orchoban/cordova-jqm-navigator/issues"
+  },
+  "homepage": "https://github.com/orchoban/cordova-jqm-navigator#readme"
+}

@@ -1,29 +1,34 @@
 <h1>This will help you to manage your pages-history in the app.
   With this navigator the user will experience perfect return pages like you want.</h1>
 
+<h2>Running</h2>
+<pre>
+<code>npm i navigator-cordova-jqm</code>
+</pre>
 
-
-<h2>to run it: (example)</h2>
+<h2>Example</h2>
+<pre>
 <code> 
  navigator_corJQM.constructor({
-     <br/>
+     <p></p>
     listLevelPages: {
-        <br/>
+        <p></p>
         "homePage": 0,
-        <br/>
+        <p></p>
         "newPost": 3,
-        <br/>
+        <p></p>
         "page_Shop": 1,
-        <br/>
+        <p></p>
         "page_Settings": 2,
-        <br/>
+        <p></p>
         "popupMap": 9,
-        <br/>
+        <p></p>
         "page_about": 2
-        <br/>
+        <p></p>
      }
-     <br/>
+     <p></p>
      , defaultPage: "homePage"
-     <br/>
+     <p></p>
  });
 </code>
+</pre>

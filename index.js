@@ -115,7 +115,7 @@ if ($.mobile) {
 
 
 
-// -----Example
+// // -----Example
 // navigator_corJQM.constructor({
 //     listLevelPages: {
 //         "homePage": 0,

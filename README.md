@@ -15,8 +15,8 @@
  <h5>*or add js file from <a href="https://github.com/orchoban/cordova-jqm-navigator">github</a> and link it in the html</h6>
 <p></p>
  <pre>
- <p style="color:blue;">navigator_corJQM.constructor({</p>
  <p>
+ navigator_corJQM.constructor({
     listLevelPages: {
         "homePage": 0,
         "newPost": 3,

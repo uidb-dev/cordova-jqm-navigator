@@ -1,6 +1,6 @@
 {
   "name": "navigator-cordova-jqm",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Navigator for Cordova with jQuery Mobile. This will help you manage your pages history in the app.",
   "main": "index.js",
   "repository": {
@@ -13,6 +13,8 @@
     "historyPages",
     "jQueryMobile",
     "Cordova",
+    "PhoneGap",
+    "Ionic",
     "Cordova-jQueryMobile",
     "manage-pages-Cordova-jQueryMobile",
     "historyPages-Cordova-jQueryMobile",

@@ -11,6 +11,10 @@
 <h2>Example</h2>
 <pre>
 <code> 
+--import navigator_corJQM from "navigator-cordova-jqm"
+  <p></p>
+ or add js file
+  <p></p>  <p></p>
  navigator_corJQM.constructor({
      <p></p>
     listLevelPages: {

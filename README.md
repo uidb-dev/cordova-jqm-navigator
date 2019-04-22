@@ -1,7 +1,7 @@
 <h1>navigator-cordova-jqm<h1>
 
-<h3>This will help you to manage your pages-history in the app.
-  With this navigator the user will experience perfect return pages like you want.</h3>
+<h3>This will help you to manage your pages-history in the app.</h3>
+<h3>With this navigator the user will experience perfect return pages like you want.</h3>
 
 <h2>Install</h2>
 <pre>

@@ -8,20 +8,22 @@
  navigator_corJQM.constructor({
      <br/>
     listLevelPages: {
-          <br/>
+        <br/>
         "homePage": 0,
-          <br/>
+        <br/>
         "newPost": 3,
-          <br/>
+        <br/>
         "page_Shop": 1,
-          <br/>
+        <br/>
         "page_Settings": 2,
-          <br/>
+        <br/>
         "popupMap": 9,
-          <br/>
+        <br/>
         "page_about": 2
-          <br/>
+        <br/>
      }
+     <br/>
      , defaultPage: "homePage"
+     <br/>
  });
 </code>

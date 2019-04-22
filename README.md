@@ -9,12 +9,13 @@
 </pre>
 
 <h2>Example</h2>
-<pre>
-<code> 
---import navigator_corJQM from "navigator-cordova-jqm"
-  <p></p>
- or add js file
-  <p></p>  <p></p>
+<pre><code> import navigator_corJQM from "navigator-cordova-jqm"</code></pre>
+ <h6>or</h6>
+ <pre><code>const navigator_corJQM=require('navigator-cordova-jqm');</code></pre>
+ <h5>*or add js file from <a href="https://github.com/orchoban/cordova-jqm-navigator">github</a> and link it in the html</h6>
+<p></p>
+ <pre>
+<code>
  navigator_corJQM.constructor({
      <p></p>
     listLevelPages: {

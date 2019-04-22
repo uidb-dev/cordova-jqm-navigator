@@ -3,7 +3,7 @@
 
 
 
-<h2>to run it: (--Example)</h2>
+<h2>to run it: (example)</h2>
 <code> 
  navigator_corJQM.constructor({
      <br/>
